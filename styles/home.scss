@@ -1,0 +1,18 @@
+h1 {
+  color: tomato;
+}
+
+button:focus {
+  outline: none;
+}
+
+.checkout {
+  width: 200px;
+  padding: 10px 25px;
+  background-color: green;
+  color: white;
+  font-size: 1.2em;
+  font-weight: bold;
+  border-radius: 10px;
+  border-color: white;
+}
